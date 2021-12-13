@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddahant&layout=compact&hide=Jupyter-Notebook"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddahant&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddahant&hide=Jupyter Notebook"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddahant&show_icons=true">
 
 <a href="https://github.com/siddahant/GUI-based-interactive-kinematics-toolkit-for-robotic-manipulators"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddahant&repo=GUI-based-interactive-kinematics-toolkit-for-robotic-manipulators" /> </a>
 
